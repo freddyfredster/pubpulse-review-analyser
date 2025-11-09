@@ -1,0 +1,83 @@
+{
+  "window": "all",
+  "total_reviews_all_time": 1006,
+  "reviews_in_window": 1006,
+  "avg_rating_in_window": 4.15,
+  "avg_rating_last90": 4.57,
+  "avg_rating_all_time": 4.15,
+  "sentiment_counts_window": {
+    "positive": 793,
+    "neutral": 87,
+    "negative": 126
+  },
+  "themes_window": {
+    "Staff & Service": {
+      "positive": 377,
+      "neutral": 30,
+      "negative": 49
+    },
+    "Food Quality / Execution": {
+      "positive": 391,
+      "neutral": 33,
+      "negative": 66
+    },
+    "Speed / Wait Time": {
+      "positive": 60,
+      "neutral": 15,
+      "negative": 29
+    },
+    "Value & Deals": {
+      "positive": 76,
+      "neutral": 14,
+      "negative": 16
+    },
+    "Environment": {
+      "positive": 138,
+      "neutral": 10,
+      "negative": 21
+    },
+    "Events": {
+      "positive": 33,
+      "neutral": 5,
+      "negative": 3
+    }
+  },
+  "quotes": [
+    {
+      "text": "Never booked but they found us a table straight away. The staff were always friendly and helpful. We ordered 2 beefs dinners and a steak, we expected it to take long but it came very quick and was red hot. We all really enjoys our meals and will definitely be back again to try the rest of the menu.",
+      "author": "Charley Davies",
+      "rating": 5.0,
+      "date": "2025-06-08"
+    },
+    {
+      "text": "We came in for some food and drinks on a\nbusy evening and we were not disappointed. The food arrived quickly and tasted fresh. Callum on front of house was honestly what\nmade our visit. From the minute we arrived,\nhe greeted us with a smile and asked how\nwe was. Whilst ordering, he was being super\np",
+      "author": "Alex Ene",
+      "rating": 5.0,
+      "date": "2025-06-07"
+    },
+    {
+      "text": "Bar staff were very friendly and welcoming, had to wait a while for food but not going to moan about that as food was delicious and cooked just right. My husband had a mixed grill, asked for the steak to be rare, it was bang on! Will definitely visit again, thankyou!",
+      "author": "Anna Flynn",
+      "rating": 5.0,
+      "date": "2025-06-17"
+    },
+    {
+      "text": "Unfortunately if I could rate this lower I really would. I have never experienced such hostility and racism in all my life. It has extremely saddened me. As I just wanted to enjoy the football match with my friends, and order a pint. Whist watching the match I was rudely interrupted by the manager w",
+      "author": "Sadè Ramsey",
+      "rating": 1.0,
+      "date": "2025-04-08"
+    },
+    {
+      "text": "Food is somewhat decent. However multiple times me and my family have been. 3 adults and 2 children ages 5 and 2 and each time staff have looked upon us disgusted. It’s supposed to be “child friendly” and from our experiences it definelty isn’t and has put us off going there ever again. Staff told k",
+      "author": "Aimee Smith",
+      "rating": 1.0,
+      "date": "2025-04-12"
+    },
+    {
+      "text": "The quickest way to get us to leave a pub is play reggae music as loud as possible and have a bingo night whilst we were trying to have dinner. The food was ok but it wasn’t the best pub grub dining experience. We won’t be going back",
+      "author": "Mark",
+      "rating": 2.0,
+      "date": "2025-03-25"
+    }
+  ]
+}

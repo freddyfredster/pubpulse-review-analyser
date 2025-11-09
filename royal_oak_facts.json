@@ -1,0 +1,94 @@
+{
+  "window": "all",
+  "window_is_all": true,
+  "total_reviews_all_time": 206,
+  "reviews_in_window": 206,
+  "avg_rating_in_window": 4.64,
+  "last90": {
+    "count": 5,
+    "avg_rating": 5.0
+  },
+  "all_time": {
+    "count": 206,
+    "avg_rating": 4.64
+  },
+  "sentiment_counts_window": {
+    "positive": 189,
+    "neutral": 14,
+    "negative": 3
+  },
+  "themes_window": {
+    "Staff & Service": {
+      "positive": 52,
+      "neutral": 3,
+      "negative": 1
+    },
+    "Food Quality / Execution": {
+      "positive": 4,
+      "neutral": 0,
+      "negative": 1
+    },
+    "Speed / Wait Time": {
+      "positive": 3,
+      "neutral": 0,
+      "negative": 0
+    },
+    "Value & Deals": {
+      "positive": 7,
+      "neutral": 0,
+      "negative": 1
+    },
+    "Environment": {
+      "positive": 43,
+      "neutral": 0,
+      "negative": 0
+    },
+    "Events": {
+      "positive": 11,
+      "neutral": 0,
+      "negative": 0
+    }
+  },
+  "quotes": [
+    {
+      "text": "Great friendly staff, a very welcoming atmosphere. Lovely garden, pub very clean and decorated nicely. An all round Great pub!",
+      "author": "Stacey Jagpal",
+      "rating": 5.0,
+      "date": "2025-08-11"
+    },
+    {
+      "text": "Great family and community pub with the best beer garden in the area. Staff are friendly and welcoming.",
+      "author": "Ewan Litton",
+      "rating": 5.0,
+      "date": "2025-08-24"
+    },
+    {
+      "text": "It’s been my local for a lot of years and long may it continue, Rob &Lucy are great hosts , can’t fault the place 🍺😊",
+      "author": "Mick Pitchford",
+      "rating": 5.0,
+      "date": "2025-07-30"
+    },
+    {
+      "text": "Went over for England game. Never been before. Bar staff shouting at us to form a queue before we'd even taken a look around, swearing, spitting, vaping inside bar area in the pub, plenty ashtrays about but several, including the landlord, chose to drop cigarette ends on the grass and stamp on them.",
+      "author": "Tony Davies",
+      "rating": 2.0,
+      "date": "2024-06-25"
+    },
+    {
+      "text": "ok good beer",
+      "author": "Ray Charlesworth",
+      "rating": 2.0,
+      "date": "2018-09-25"
+    },
+    {
+      "text": "",
+      "author": "Yusuf Abdullahi",
+      "rating": 1.0,
+      "date": "2019-04-26"
+    }
+  ],
+  "narrative_hints": {
+    "suppress_volume_trend": true,
+    "prefer_trend_statement": true
+  }
+}
