@@ -20,8 +20,3 @@ Finally, results are visualised in **Power BI** for easy comparison across pubs.
 2. **OpenAI SDK** – analyses reviews and generates category scores (service, food, ambience, etc.).  
 3. **Python Scripts** – automate data fetching, processing, and analysis.  
 4. **Power BI** – visualises insights for management decision-making.
-
----
-
-## 📂 Project Structure
-
